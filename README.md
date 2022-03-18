@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rwong9889
-- 👀 I’m interested in Game development.
-- 🌱 I’m currently learning Electronic and Computer Engineering.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Wong Guang Xing
+- 👀 I’m interested in Modern Technologies, Programming and Game Development.
+- 🌱 I’m studying Bachelor's Degree in Electronics (Computer) Engineering at Universiti Malaysia Sabah (UMS).
 
 <!---
 rwong9889/rwong9889 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
